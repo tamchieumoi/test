@@ -5,7 +5,7 @@ using System.Text;
 namespace DTO
 {
     public class CongNoDTO
-    {
+    {   // last test
         private string Makhachhang;
         private string Tenkhachhang;
         private string Sodienthoai;
