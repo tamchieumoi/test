@@ -6,8 +6,6 @@ namespace DTO
 {
     public class CongNoDTO
     {
-        // cái này test thôi
-        // cái này test nữa nè..=))
         private string Makhachhang;
         private string Tenkhachhang;
         private string Sodienthoai;
@@ -25,7 +23,7 @@ namespace DTO
         public string Tenkhachhang1 { get => Tenkhachhang; set => Tenkhachhang = value; }
         public string Sodienthoai1 { get => Sodienthoai; set => Sodienthoai = value; }
         public string Sotienno1 { get => Sotienno; set => Sotienno = value; }
-        //test nữa này =))))cdc
+
 
     }
 }
