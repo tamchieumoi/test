@@ -6,7 +6,6 @@ namespace DTO
 {
     public class CongNoDTO
     {
-        //ok
         private string Makhachhang;
         private string Tenkhachhang;
         private string Sodienthoai;
