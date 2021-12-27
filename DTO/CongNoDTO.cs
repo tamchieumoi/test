@@ -7,6 +7,7 @@ namespace DTO
     public class CongNoDTO
     {
         // cái này test thôi
+        // cái này test nữa nè..=))
         private string Makhachhang;
         private string Tenkhachhang;
         private string Sodienthoai;
